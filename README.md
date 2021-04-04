@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred16157)](https://github.com/fred16157/github-readme-stats)
 
-[![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred16157)
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred16157)
